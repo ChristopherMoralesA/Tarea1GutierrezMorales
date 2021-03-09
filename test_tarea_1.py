@@ -1,3 +1,4 @@
+# NOTA 100
 import pytest                   # Se importa la biblioteca "pytest"
 from tarea_1 import check_char  # Se importan las funciones del otro archivo
 from tarea_1 import caps_switch
